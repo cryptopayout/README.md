@@ -1,0 +1,10 @@
+# CRYTOPAYOUT
+
+Crypto to INR payout app.
+
+## Features
+- Crypto wallet integration
+- INR bank payouts
+- Secure backend
+
+## Run locally￼Enter
